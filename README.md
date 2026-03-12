@@ -1,50 +1,77 @@
-# 👋 Hi there, I'm Shiv Grover
+# Hi there 👋 I'm Shiv
 
-🎓 Final-year B.Tech student at IIIT Bhubaneswar  
-🌐 Backend Developer | Android Enthusiast | GATE 2025 Aspirant  
-📫 Reach me at: **B322042@iiit-bh.ac.in**  
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-- JavaScript  Python, Kotlin, C++
-- SQL, MongoDB query language
-
-### 📱 Mobile Development
-- Kotlin (Jetpack Compose, MVVM architecture)
-- Native Android (Room, Retrofit, Firebase)
-- UI Theming with Light/Dark mode support
-
-### 🖥️ Backend Development
-- Node.js, Express.js
-- MongoDB
-
-### 🌐 Frontend Basics
-- HTML5, CSS3, JavaScript
-- Tailwind CSS (learning), React Js
-
-### 🧠 Currently Exploring
-- TypeScript
-- Spring Boot 
-- Docker
----
-
-## 📌 Projects & Interests
-- 🚧 Building full-stack apps from scratch (Expense Tracker, etc.)
-- 📱 Developing Android apps with Jetpack Compose
----
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivGrover45&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShivGrover45&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+💻 Backend Developer | Node.js Enthusiast
+🎓 Electrical Engineering Student
+⚽ Football Lover
 
 ---
 
+## 🚀 About Me
 
+* 🌱 Currently learning **Backend Development with Node.js**
+* 🛠 Building **real-world APIs and backend systems**
+* ☁️ Exploring **cloud storage and video streaming systems**
+* 🎮 Learning **game development with pygame in free time**
+* 🎯 Goal: Become a **strong backend / full stack engineer**
 
+---
 
+## 🛠 Tech Stack
 
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge\&logo=python)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Blog API**
+Backend API for blog management using Node.js, Express and MongoDB.
+
+🔹 **Image Upload API**
+API for handling image uploads and storage.
+
+🔹 **Video Streaming Backend**
+Backend system for handling video uploads and streaming.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: Add your LinkedIn
